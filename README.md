@@ -109,10 +109,8 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=uygrgcmn&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=uygrgcmn&show_icons=true&theme=radical&hide_border=true" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uygrgcmn&layout=compact&theme=radical&hide_border=true" height="170" />
 </p>
 
----
-
-⭐ Always building, always learning.
+> 🔒 Includes contributions from private repositories (not fully reflected in stats)
