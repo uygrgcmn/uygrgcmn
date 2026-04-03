@@ -113,4 +113,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uygrgcmn&layout=compact&theme=radical&hide_border=true" height="170" />
 </p>
 
-> 🔒 Includes contributions from private repositories (not fully reflected in stats)
+> Contributions also include work on private company repositories.
